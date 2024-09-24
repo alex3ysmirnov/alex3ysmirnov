@@ -4,7 +4,7 @@
 - 💞️ Я сейчас не заинтересован в коллаборации 
 - 📫 Как связаться с мной: [VK](https://vk.com/alex3ysmirnov)
 - 😄 Местоимения: он\его
-- 🛠️ Сейчас работаю над: 🍬 Карамелькой, бот для [VK Teams](https://biz.mail.ru/teams/)
+- 🛠️ Сейчас работаю над: 🍬 Карамелькой, бот для [VK Teams](https://biz.mail.ru/teams/); Библиотекой [VK Teams.py](https://github.com/alex3ysmirnov/vkteams_py)
 
 <!---
 alex3ysmirnov/alex3ysmirnov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
